@@ -1,0 +1,9 @@
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\bin\Debug\Pasta Pişirme.exe.config
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\bin\Debug\Pasta Pişirme.exe
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\bin\Debug\Pasta Pişirme.pdb
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta_Pişirme.Form1.resources
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta_Pişirme.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta Pişirme.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta Pişirme.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta Pişirme.exe
+O:\Udemy\Udemy C# Projeleri\Pasta Pişirme\Pasta Pişirme\obj\Debug\Pasta Pişirme.pdb
